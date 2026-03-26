@@ -1,0 +1,2 @@
+# Update-Codex-Skills
+Install Codex skills from a curated list or a GitHub repo path. Use when a user asks to list installable skills, install a curated skill, or install a skill from another repo (including private repos).
